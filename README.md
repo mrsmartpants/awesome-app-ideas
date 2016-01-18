@@ -47,6 +47,7 @@
 - Instagram client
 - Kanban board
 - Kids' milestones tracker
+- Life Tracker App
 - Mail client
 - Movie Reviews
 - Movies / IMDB search
